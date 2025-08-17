@@ -1,0 +1,17 @@
+# Financial Tracker Dashboard using Google Data Studio
+
+##  Overview
+The **Financial Tracker Dashboard** is an interactive solution built using **Google Data Studio** and **Google Sheets** to track income, expenses, and savings. It provides real-time insights, category-wise analysis, and KPIs for better financial planning.
+
+---
+
+##  Features
+- Track **monthly income vs. expenses**
+- Visualize **category-wise spending patterns**
+- Calculate **Net Savings** and **Savings Ratio (%)**
+- Interactive filters for **Month** and **Payment Method**
+- Automated updates via **Google Sheets**
+
+---
+
+##  Project Structure
