@@ -1,0 +1,15 @@
+Financial-Tracker-Dashboard/
+│
+├── data/
+│   └── sample_transactions.csv
+│
+├── scripts/
+│   └── upload_to_sheets.py
+│
+├── docs/
+│   └── dashboard_screenshot.png   # placeholder for Data Studio dashboard screenshot
+│
+├── formulas/
+│   └── google_sheets_kpis.md
+│
+└── README.md
